@@ -40,12 +40,14 @@ var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
+// This code establishes numerical values for the variables "friends" and "siblings" and then evaluates whether the number of friends is greater than the number of siblings. The result of the comparison should be "true";
+
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
-
+// This code establishes numerical values for the variables "attendees" and "meals" and then evaluates if the number of attendees is NOT equal to the number of meals. The result of the comparison should be "true";
 
 // #-------------------
 // PART 3: Logical Operators
